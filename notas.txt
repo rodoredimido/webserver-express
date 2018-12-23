@@ -1,0 +1,4 @@
+para cargar nodemon y vea los archivos js, hbs,  o cualquier extencion
+usar asi:
+
+nodemon server -e js,hbs,html,css
